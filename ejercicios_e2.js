@@ -60,3 +60,11 @@ let mayorDeDos = (num1, num2) => {
 }
 
 console.log(mayorDeDos(10, 20));
+
+// 16. Crea una función areaRectangulo que reciba base y altura y retorne su área.
+
+function areaRectangulo(base, altura) {
+  return base * altura;
+} 
+
+console.log(areaRectangulo(5, 10));
