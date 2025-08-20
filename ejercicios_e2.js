@@ -68,3 +68,20 @@ function areaRectangulo(base, altura) {
 } 
 
 console.log(areaRectangulo(5, 10));
+
+
+
+
+
+
+
+let saludoAWalter = (apellido) => {
+  return `Hola Walter ${apellido}, ¿cómo estás?`;
+}
+
+console.log(saludoAWalter("Himanol"));
+
+
+let saludoAWalter2 = apellido => `Hola Walter ${apellido} Sequeira, ¿cómo estás?`;
+
+console.log(saludoAWalter2("Himanol"));
