@@ -63,5 +63,3 @@ agregarAlFinal("Tarea C");  // Cola: ["Tarea A", "Tarea B", "Tarea C"]
 removerDelInicio();         // Procesa "Tarea A", Cola: ["Tarea B", "Tarea C"]
 removerDelInicio();         // Procesa "Tarea B", Cola: ["Tarea C"]
 removerDelInicio();         // Procesa "Tarea C", Cola: []
-
-
